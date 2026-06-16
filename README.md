@@ -18,6 +18,6 @@
 ### Conducted Exploratory Data Analysis (EDA).
 
 ## Screenshots
-"C:\Users\Hemamlini\Pictures\Screenshots\Screenshot 2026-06-16 153600.png"
-"C:\Users\Hemamlini\Pictures\Screenshots\Screenshot 2026-06-16 154311.png"
-"C:\Users\Hemamlini\Pictures\Screenshots\Screenshot 2026-06-16 154455.png"
+C:\Users\Hemamlini\Pictures\Screenshots\Screenshot 2026-06-16 153600.png
+C:\Users\Hemamlini\Pictures\Screenshots\Screenshot 2026-06-16 154311.png
+C:\Users\Hemamlini\Pictures\Screenshots\Screenshot 2026-06-16 154455.png
