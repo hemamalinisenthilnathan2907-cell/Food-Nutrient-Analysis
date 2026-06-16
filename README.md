@@ -1,4 +1,3 @@
-<img width="1065" height="641" alt="Screenshot 2026-06-16 155748" src="https://github.com/user-attachments/assets/cfdfd91c-31aa-4748-85d0-268ca3df5015" />
 # Project Title
 
 ## Food-Nutrient-Analysis
@@ -25,3 +24,7 @@
 <img width="1402" height="662" alt="Screenshot 2026-06-16 154311" src="https://github.com/user-attachments/assets/f2f7a52d-67b2-4133-a510-0e31711f9edb" />
 <img width="1302" height="630" alt="Screenshot 2026-06-16 160052" src="https://github.com/user-attachments/assets/cda21595-3b8e-45e7-b039-f02d028ee16a" />
 <img width="1065" height="641" alt="Screenshot 2026-06-16 155748" src="https://github.com/user-attachments/assets/df027d55-d617-4725-9f9e-2f99831216e4" />
+
+#Conclusion
+
+### The analysis provided valuable insights into the nutritional composition of various food items. Through data cleaning, visualization, and statistical analysis, key relationships between nutrients were identified. The project demonstrates how data analytics can be used to better understand food nutrition and supports informed dietary decision-making. It also serves as a practical application of Python, Pandas, Matplotlib, and data visualization techniques in real-world nutritional data analysis.
