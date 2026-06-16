@@ -1,3 +1,4 @@
+<img width="1065" height="641" alt="Screenshot 2026-06-16 155748" src="https://github.com/user-attachments/assets/cfdfd91c-31aa-4748-85d0-268ca3df5015" />
 # Project Title
 
 ## Food-Nutrient-Analysis
@@ -22,3 +23,5 @@
 <img width="587" height="630" alt="Screenshot 2026-06-16 155046" src="https://github.com/user-attachments/assets/f1bdcd6e-1c26-49f7-9aa5-40c013ccbd54" />
 <img width="830" height="523" alt="Screenshot 2026-06-16 154455" src="https://github.com/user-attachments/assets/ffb05536-b176-4e98-9bd3-d09218c199ca" />
 <img width="1402" height="662" alt="Screenshot 2026-06-16 154311" src="https://github.com/user-attachments/assets/f2f7a52d-67b2-4133-a510-0e31711f9edb" />
+<img width="1302" height="630" alt="Screenshot 2026-06-16 160052" src="https://github.com/user-attachments/assets/cda21595-3b8e-45e7-b039-f02d028ee16a" />
+<img width="1065" height="641" alt="Screenshot 2026-06-16 155748" src="https://github.com/user-attachments/assets/df027d55-d617-4725-9f9e-2f99831216e4" />
